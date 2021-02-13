@@ -1,0 +1,160 @@
+body{
+   
+    background-image: url("../img/csf.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+     
+}
+
+.espacio{
+     padding: 10px 10px 10px 180px;
+}
+.li{
+   display: inline-block; 
+    margin-right: 50px;
+    margin-left:50px;
+}
+#menu{
+    border-radius: 100px;
+    font-family: fantasy;
+    padding: 0px 10px 0px 250px;
+    background-color: #FF8300;
+    margin-right: 50px;
+    margin-left:50px;
+    font-size:200%;
+}
+#menu ul{
+     list-style: none; 
+    margin: 0;
+    padding: 0;
+    
+}
+
+#menu ul li{
+    display: inline-block;
+    
+    
+}
+
+#menu ul li a:hover{
+    background-color: #50A4FF;
+    border-radius: 100px;
+    opacity: 0.8;
+}
+
+#menu ul li a{
+    color:white;
+    display:block;
+    padding: 10PX 60px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.fila{
+    border: 1px black solid;   
+}
+
+
+.col{
+    border: 1px black solid;
+    padding: 20px;
+    background-color: #FFFFFF;
+}
+
+
+.logo{
+    margin-left: 550px;
+    background-image: url("../img/blancologo.png");
+    background-repeat: no-repeat;    
+    height: 40vw;
+   
+}
+
+.parrafo{
+    margin-top:  -450px;
+   
+    
+}
+p{
+    text-align: justify;
+    margin: 0px 350px 0px 350px;
+    color: #FFFFFF;
+    font-family: Berlin Sans FB Demi;
+    font-size: 125%;
+}
+
+
+table{
+     font-family: fantasy;
+    
+}
+
+
+
+li{
+     font-family: fantasy;
+     
+}
+#totc{
+    font-family: fantasy;
+    margin: 10px 0px 5px 654px;
+}
+
+.img1{
+    height: 188px;
+}
+.img2{
+  height: -5vw;  
+}
+.img3{
+   height: 4vw; 
+}
+.img4{
+ height: -5px;; 
+}
+
+.b{
+    cursor: pointer;
+    border-radius: 500px;
+    font-family: fantasy;
+}
+
+.b:hover{
+	text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+	background:#50A4FF;
+}
+.cancelar{
+    cursor: pointer;
+    border-radius: 500px;
+    font-family: fantasy;
+}
+.cancelar:hover{
+  text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+	background:#50A4FF;  
+}
+.guardar{
+    cursor: pointer;
+    border-radius: 500px;
+    font-family: fantasy;
+    margin: 10px 0px 5px 651px;
+}
+.guardar:hover{
+         text-shadow: 0 1px 1px rgba(0,0,0,0.5);
+	background:#50A4FF;   
+}
+
+.des{
+  margin: 10px 0px 5px 651px;  
+  
+}
+
+#tablah{
+     margin: 10px 55px 5px 651px;  
+}
+
+#li2{
+     margin: 10px -11px 5px 647px;  
+}
+
+
